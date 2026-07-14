@@ -25,18 +25,14 @@
 - TypeScript
 
 ## 🖼️ 运行效果
-### 行程信息填写
 
-![行程信息填写](docs/images/home.png)
+![](docs/images/图1.png)
 
-### 行程概览与景点地图
-![行程概览与景点地图](docs/images/overview-map.png)
+![](docs/images/图2.png)
 
-### 每日行程
-![每日行程](docs/images/daily-itinerary.png)
-### 天气信息
-![天气信息](docs/images/weather.png)
+![](docs/images/图3.png)
 
+![](docs/images/图4.png)
 ## 📁 项目结构
 ```text
 multi-agent-trip-planner/
